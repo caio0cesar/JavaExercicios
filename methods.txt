@@ -1,0 +1,28 @@
+MÉTODOS PARA ESTUDAR:
+
+métodos de array:
+- push
+- pop
+- unshift
+- shift
+- slice
+- splice
+- map
+- filter
+- reduce
+- forEach
+- sort
+- indexOf
+- includes
+
+métodos de string:
+- split
+- join
+- trim
+- indexOf
+- includes
+- concat
+- replace
+- toLowerCase
+- toUpperCase
+- toString

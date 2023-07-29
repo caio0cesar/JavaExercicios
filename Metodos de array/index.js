@@ -46,3 +46,9 @@ let ar2 = nume2.reduce(
 );
 
 console.log(ar2);
+
+const poder = [1000, 500, 2000, 800, "burro"];
+
+const anime = lista.forEach((element, shampoo) => {
+	console.log(`${element} ${poder[shampoo]}`);
+});

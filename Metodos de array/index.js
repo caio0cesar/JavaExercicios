@@ -52,3 +52,11 @@ const poder = [1000, 500, 2000, 800, "burro"];
 const anime = lista.forEach((element, shampoo) => {
 	console.log(`${element} ${poder[shampoo]}`);
 });
+
+let numbers = [5, 4, 7, 90, 87];
+
+numbers.sort(function (a, b) {
+	return a - b;
+});
+
+console.log(numbers);
